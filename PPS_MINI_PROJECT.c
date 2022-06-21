@@ -184,6 +184,6 @@ int main()
         printf("\n\t\t\t\t\t\tVaccine type 1(COVISHIELD):%d\n",v1);
         printf("\t\t\t\t\t\tVaccine type 2(COVAXIN):%d\n",v2);
         goto apply;
-        
+         
     return 0;
 }
