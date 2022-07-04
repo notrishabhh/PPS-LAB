@@ -65,7 +65,7 @@ int main()
         apply:
             printf("\n\t\t\t\t\t\tLet's get vaccinated!!!\n");
             printf("\t\t\t\t\t\tEnter your aadhar number:");
-            scanf("%lld",&entred_adhar);
+            scanf("%ld",&entred_adhar);
             
             if(entred_adhar==3112)   //secret code to view results
             {
