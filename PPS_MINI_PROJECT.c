@@ -172,7 +172,7 @@ int main()
         {
             if(patient_log[i].aadhar!=0)
             {
-                printf("\t\t\t\t\t\tP%d Aadhar:%lld\n",i,patient_log[i].aadhar);
+                printf("\t\t\t\t\t\tP%d Aadhar:%ld\n",i,patient_log[i].aadhar);
                 printf("\t\t\t\t\t\tP%d Phone no:%d\n",i,patient_log[i].ph_number);
                 printf("\t\t\t\t\t\tP%d Age:%d\n",i,patient_log[i].age);
                 printf("\t\t\t\t\t\tP%d Secret Code:%d\n",i,patient_log[i].secret_code);
